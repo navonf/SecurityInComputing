@@ -1,7 +1,7 @@
 //------------------------------------------------------------------
 // University of Central Florida
 // CIS3360 - Fall 2017
-// Program Author: Jakob Sante & Navon Francis
+// Program Author: Navon Francis
 //------------------------------------------------------------------
 
 import java.io.*;
