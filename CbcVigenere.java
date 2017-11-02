@@ -34,7 +34,7 @@ public class CbcVigenere {
     // Convert to an all lowercase string
     String pt = plaintext.toString().toLowerCase();
 
-    System.out.println("CBC Vignere by Jakob Sante & Navon Francis");
+    System.out.println("CBC Vignere by Navon Francis");
     System.out.println("Plaintext input: " + args[0]);
     System.out.println("Vignere keyword: " + args[1]);
     System.out.println("Initialization vector: " + args[2] + "\n");
